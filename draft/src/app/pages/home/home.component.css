@@ -1,0 +1,105 @@
+.banner6{
+    background-image: url('../../../assets/images/123.jpg');
+    height: 600px;
+    background-position: center top;
+    background-size: cover;
+}
+.content{
+    top: 30%;
+    left: 20%;
+    position: absolute;
+}
+.content h1{
+    color:whitesmoke;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.content h3{
+    font-weight: bold;
+    color: whitesmoke;
+    font-size: 40px;
+    margin-left: -25px;
+}
+.hello{
+    padding-top: 7%;
+   padding-left: 10%;
+   padding-right: 10%;
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    
+}
+
+.col-md-12 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding-top:32%;
+}
+.mu-title {
+    display: inline;
+    float: left;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 35px;
+    padding: 0 25%;
+    margin-top: 2%;
+}
+
+.mu-from-blog-area {
+    display: inline;
+    float: left;
+    width: 100%;
+}
+
+.mu-from-blog-content {
+    display: inline;
+    float: left;
+    margin-top: 10px;
+    width: 100%;
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.col-md-4{
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+
+.mu-blog-item {
+    box-shadow: 0px 0px 14px #ededed;
+    display: inline;
+    float: left;
+    width: 100%;
+}
+.img{
+    border: none;
+    max-width: 100%;
+    vertical-align: middle;
+}
+.mu-blog-item-content {
+    display: inline;
+    float: left;
+    padding: 25px 25px;
+    width: 100%;
+}
+.mu-blog-item-title, .mu-blog-item-title a {
+    color: #323232;
+    font-size: 16px;
+    line-height: 1.5;
+    -webkit-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.mu-blog-item[_ngcontent-ast-c1] {
+    box-shadow: 0px 0px 14px #ededed;
+    display: inline;
+    float: left;
+    width: 100%;
+}
